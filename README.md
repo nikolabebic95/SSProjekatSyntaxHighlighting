@@ -1,4 +1,4 @@
-# SSProjekatSyntaxHighighting
+# SSProjekatSyntaxHighlighting
 
 **Sistemski softver**
 
