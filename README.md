@@ -27,7 +27,7 @@ Skup pravila se definiše kao skup regexa i onoga šta oni predstavljaju.
 Fajl `MicroRISC Assembly.sublime-syntax` je fajl sa pravilima za projekat 2017.
 Fajl `helloworld.ss` je test primer za projekat 2017. koji koristi ovu sintaksnu definiciju.
 
-[Ovde](https://www.dropbox.com/s/6kbju6byru50hud/ubuntu_new.zip?dl=0) se nalazi virtuelna mašina sa podešenim editorom za projekat 2017.
+[Ovde](https://1drv.ms/u/s!AmhUspJ_9lSwuUKrUjSFmPFNQgsp) se nalazi virtuelna mašina sa podešenim editorom za projekat 2017.
 
 ### Primer jednostavnog fajla:
 ```yaml
@@ -71,3 +71,4 @@ contexts:
 - [Zvanična dokumentacija o sublime sintaksnim definicijama](https://www.sublimetext.com/docs/3/syntax.html)
 - [Spisak scopeova koji se koriste u sintaksnim definicijama](https://www.sublimetext.com/docs/3/scope_naming.html)
 - [PackageDev github strana](https://github.com/SublimeText/PackageDev)
+- [Nameštena virtuelna mašina za projekat 2017](https://1drv.ms/u/s!AmhUspJ_9lSwuUKrUjSFmPFNQgsp)
